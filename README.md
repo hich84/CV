@@ -16,29 +16,30 @@
 
 
 
-### **Profil**: Étudiant en classe préparatoire parcours numérique, passionné par le développement informatique.
+## **Profil**: 
+### Étudiant en classe préparatoire parcours numérique, passionné par le développement informatique.
 
 ### Recherche un stage pour acquérir de l'expérience en programmation et développement d'applications.
 
 
-### **Formation**
+## **Formation**
 
 ### 2025 - Présent : Classe préparatoire parcours numérique
 ### 2025 : Baccalauréat général (scientifique)
 
 
-### **Compétences**
+## **Compétences**
 
 ### Langages : Python, HTML, CSS, JavaScript
 ### Outils : Git, VS Code
 ### Bases en algorithmique et structures de données
 
-### **Projets**
+## **Projets**
 ### Création d'un site web personnel
 ### Développement d'un petit jeu en Python
 ### Projet de calculatrice en JavaScript
 
-### **Langues**
+## **Langues**
 
 ### Français : langue maternelle
 ### Anglais : niveau intermédiaire
